@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Title: Advanced Sections 2:
 Category: a-section
+=======
+Title: Advanced Section 2: Regularization
+Category: A-section
+>>>>>>> upstream/master
 Date: 2019-9-25
 Author: Pavlos Protopapas, Robbert Struyven
 Slug: a-section2
