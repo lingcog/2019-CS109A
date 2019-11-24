@@ -6,10 +6,11 @@ Slug: lecture14
 Tags: PCA, dimensionality reduction
 
 
-## Slides
-[Lecture 14 Slides - PDF]({attach}presentation/Lecture14_PCA.pdf)
+## Lecture
 
-[Lecture 14 Slides - PPTX]({attach}presentation/Lecture14_PCA.pptx)
+- [Lecture 14: PCA [PDF]]({attach}presentation/Lecture14_PCA.pdf)
+- [Lecture 14: PCA [PPTX]]({attach}presentation/Lecture14_PCA.pptx)
+- [Lecture 14: PCA [Notebook]]({filename}presentation/Lecture14.ipynb)
 
 ## Notebooks
 [Lecture 14 Notebook]({static}presentation/Lecture14.ipynb)

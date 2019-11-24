@@ -1,9 +1,23 @@
-Title: Lecture 17:
+Title: Lecture 17: Boosting Methods
 Category: lectures
-Date: 2019-06-06
-Author: 
+Date: 2019-11-04
+Author: Pavlos Protopapas
 Slug: lecture17
-Tages: ADD TAGS HERE
+Tags: Boosting
 
 
-## Slides
+## Lecture
+
+- [Lecture 17: Boosting methods[PPTX]]({attach}presentation/Lecture17_Boosting.pptx)
+- [Lecture 17: Boosting methods[PDF]]({attach}presentation/Lecture17_Boosting.pdf)
+
+## Section
+
+- [S-Section 8: Boosting({filename}../../sections/section8/notebook/cs109a_section_8.ipynb)
+
+
+## Lab
+
+- [Lab 10 Slides: Decision Trees Part II (PPTX)]({attach}presentation/lab10_adaboost.pptx)
+- [Lab 10 Slides: Decision Trees Part II (PDF)]({attach}presentation/lab10_adaboost.pdf)
+- [Lab 10: Decision Trees Part II]({static}../../labs/lab10/notes/cs109a_Lab10_Boosting.ipynb)
