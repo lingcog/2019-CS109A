@@ -12,4 +12,11 @@ Tages: ADD TAGS HERE
 - [Lecture 18: Neural Networks 1 – Perceptron and MLP [PPTX]]({attach}presentation/Lecture18_PerceptronBackProp.pptx)
 
 
+<<<<<<< HEAD
+=======
+## Lab
+
+- [Lab 11: Neural Network Basics - Introduction to tf.keras]({static}../../notes/lab11_MLP_solutions_part1.ipynb)
+
+>>>>>>> upstream/master
 

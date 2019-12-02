@@ -1,9 +1,13 @@
 Title: Schedule
 Slug: schedule
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date: 2019-09-21
 =======
 Date: 2019-10-16
+>>>>>>> upstream/master
+=======
+Date: 2019-11-24
 >>>>>>> upstream/master
 
 

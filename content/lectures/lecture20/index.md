@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Title: Lecture 20: NN 3. Back Propagation
+=======
+Title: Lecture 20: NN 3: Back Propagation
+>>>>>>> upstream/master
 Category: lectures
 Date: 2019-11-13
 Author: 
@@ -8,6 +12,7 @@ Tages: ADD TAGS HERE
 
 ## Lecture
 
+<<<<<<< HEAD
 - [Lecture X: [pptx]
 
 
@@ -24,3 +29,10 @@ Tages: ADD TAGS HERE
 ## Lab
 
 - [Lab X: [Notebook]]
+=======
+- [Lecture 20: NN 3: Back Propagation [PDF]]({attach}presentation/Lecture20_BackProp.pdf)
+- [Lecture 20: NN 3: Back Propagation [PPTX]]({attach}presentation/Lecture20_BackProp.pptx)
+
+
+
+>>>>>>> upstream/master

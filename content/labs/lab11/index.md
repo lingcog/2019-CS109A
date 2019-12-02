@@ -1,9 +1,15 @@
-Title: Lab 11:
+Title: Lab 11: Neural Network Basics - Introduction to tf.keras
 Category: labs
+<<<<<<< HEAD
 Date: 2019-11-12
 Author: 
+=======
+Date: 2019-11-14
+Author: Eleni Kaxiras
+>>>>>>> upstream/master
 Slug: lab11
-Tages: ADD TAGS HERE
+Tags: feed forward neural networks, neural networks, multilayer perceptron, weights, activation function, tensorflow, keras
 
 
-## Slides
+## Jupyter Notebooks
+- [Lab 11: Neural Network Basics - Introduction to tf.keras]({static}notes/lab11_MLP_solutions_part1.ipynb)
